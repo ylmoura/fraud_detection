@@ -2,3 +2,12 @@
 -e .
 
 # external requirements
+pandas
+watermark
+pandas-profiling
+sweetviz
+matplotlib
+seaborn
+plotly
+scikit-learn
+inflection
